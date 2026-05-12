@@ -1,5 +1,6 @@
 {
   "cleanUrls": true,
-  "buildCommand": "npm run build",
+  "buildCommand": null,
+  "installCommand": null,
   "outputDirectory": "public"
 }
