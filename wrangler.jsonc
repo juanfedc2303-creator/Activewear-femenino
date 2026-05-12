@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "activewearfemenino",
+  "compatibility_date": "2026-05-12",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Activewear femenino"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
